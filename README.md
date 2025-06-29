@@ -1,3 +1,4 @@
+![Screenshot 2025-06-29 233450](https://github.com/user-attachments/assets/791f98e6-3cfc-4e70-8c35-360e9c6bfc15)
 # shifra-virtual-assistant
 React-based AI assistant powered by Gemini API.
 # Shifra - AI Virtual Assistant
